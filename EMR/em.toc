@@ -1,0 +1,44 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Wyniki}{3}{section.1}
+\contentsline {section}{\numberline {2}Tabela pomiarowa}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Przypadek pola pod\IeC {\l }u\IeC {\.z}nego}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Przypadek pola poprzecznego}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Metoda Thompsona}{3}{subsection.2.3}
+\contentsline {section}{\numberline {3}Opis teoretyczny}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Nierelatywistyczny ruch cz\IeC {\k a}stki na\IeC {\l }adowanej w polu elektromagnetycznym}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Jednorodne pole elektryczne}{4}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Jednorodne pole magnetyczne}{4}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}R\IeC {\'o}wnleg\IeC {\l }e jednorodne pola}{4}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Prostopad\IeC {\l }e jednorodne pola}{5}{subsubsection.3.1.4}
+\contentsline {subsection}{\numberline {3.2}Solenoid}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Metody wyznaczania \IeC {\l }adunku w\IeC {\l }a\IeC {\'s}ciwego}{6}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Metoda poprzecznego pola magnetycznego}{6}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Metoda Thompsona}{7}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Metoda pod\IeC {\l }u\IeC {\.z}nego pola magnetycznego - Buscha}{7}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Metoda filtr\IeC {\'o}w pr\IeC {\k e}dko\IeC {\'s}ci}{8}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5}Lampa oscyloskopowa (Brauna)}{9}{subsubsection.3.3.5}
+\contentsline {subsection}{\numberline {3.4}Cewki Helmholtza}{9}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Pole magnetyczne cewek Helmholtza}{9}{subsubsection.3.4.1}
+\contentsline {section}{\numberline {4}Opis do\IeC {\'s}wiadczenia}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Metoda pola pod\IeC {\l }u\IeC {\.z}nego}{10}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Metoda pola poprzecznego}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Metoda Thompsona}{11}{subsection.4.3}
+\contentsline {section}{\numberline {5}Obliczenia}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}Przypadek pola pod\IeC {\l }u\IeC {\.z}nego}{11}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Przypadek pola poprzecznego}{12}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Poprzeczne pole elektryczne}{12}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Poprzeczne pole magnetyczne}{14}{subsubsection.5.2.2}
+\contentsline {subsection}{\numberline {5.3}Metoda Thompsona}{14}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Wyznaczenie pr\IeC {\k e}dko\IeC {\'s}ci wi\IeC {\k a}zki}{14}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Pole elektryczne}{14}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Pole magnetyczne}{15}{subsubsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.4}Podsumowanie Methody Thompsona}{15}{subsubsection.5.3.4}
+\contentsline {section}{\numberline {6}Ocena niepewno\IeC {\'s}ci}{15}{section.6}
+\contentsline {subsection}{\numberline {6.1}Pod\IeC {\l }u\IeC {\.z}ne pole}{15}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Poprzeczne pole}{15}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Pole elektryczne}{15}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Pole magnetyczne}{15}{subsubsection.6.2.2}
+\contentsline {subsection}{\numberline {6.3}Metoda Thompsona}{15}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Niepewno\IeC {\'s}\IeC {\'c} pr\IeC {\k e}dko\IeC {\'s}ci}{15}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Niepewno\IeC {\'s}\IeC {\'c} pomiaru}{16}{subsubsection.6.3.2}
+\contentsline {section}{\numberline {7}Wnioski}{16}{section.7}
